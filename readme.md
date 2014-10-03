@@ -1,6 +1,6 @@
 # Sublime NamedMark plugin
 
-A bit smarter marks that default.
+A bit smarter marks than default.
 
 ### Demo
 
