@@ -1,0 +1,21 @@
+[
+  {
+    "caption": "NamedMark: Set",
+    "command": "set_named_mark"
+  },
+
+  {
+    "caption": "NamedMark: Go",
+    "command": "goto_named_mark",
+  },
+
+  {
+    "caption": "NamedMark: Select to",
+    "command": "select_to_named_mark",
+  },
+
+  {
+    "caption": "NamedMark: Delete to",
+    "command": "delete_to_named_mark",
+  }
+]

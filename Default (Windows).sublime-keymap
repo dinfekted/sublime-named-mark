@@ -1,0 +1,24 @@
+[
+  {
+    "keys": ["alt+shift+q"],
+    "command": "set_named_mark"
+  },
+
+  {
+    "keys": ["alt+q"],
+    "command": "goto_named_mark",
+    "context": [
+      {"key": "setting.is_widget", "operator": "equal", "operand": false}
+    ]
+  },
+
+  {
+    "keys": ["alt+ctrl+q"],
+    "command": "select_to_named_mark",
+  },
+
+  {
+    "keys": ["alt+ctrl+shift+q"],
+    "command": "delete_to_named_mark",
+  }
+]
