@@ -4,7 +4,7 @@ A bit smarter marks than default.
 
 ### Demo
 
-![Demo](https://raw.github.com/shagabutdinov/sublime-named-mark/master/demo/demo.gif "Demo")
+![Demo](https://github.com/shagabutdinov/sublime-enhanced-demos/raw/master/named_mark.gif "Demo")
 
 
 ### Installation
@@ -29,6 +29,7 @@ package.
 
 There a bit more features. Check source code to find out all of it.
 
+
 ### Commands
 
 | Description    | Keyboard shortcut | Command palette      |
@@ -37,3 +38,8 @@ There a bit more features. Check source code to find out all of it.
 | Go to mark     | alt+q             | NamedMark: Go        |
 | Select to mark | alt+ctrl+q        | NamedMark: Select to |
 | Delete to mark | alt+ctrl+shift+q  | NamedMark: Delete to |
+
+
+### Dependencies
+
+None
